@@ -90,4 +90,3 @@ class Student {
   
   student1.removeCourse('JS Basic');
   console.log(student1.getStudentInfo());
-  
